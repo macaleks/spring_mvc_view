@@ -1,7 +1,6 @@
 package ru.otus.mvc.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.data.crossstore.ChangeSetPersister;
 import org.springframework.stereotype.Component;
 import ru.otus.mvc.dao.BookRepository;
 import ru.otus.mvc.model.Book;
